@@ -1,8 +1,7 @@
 {
-  "name": "immutable-example",
+  "name": "eslint-example",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "eslint example app",
   "scripts": {
     "flow": "flow",
     "test": "echo \"Error: no test specified\" && exit 1"
